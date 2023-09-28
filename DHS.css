@@ -86,6 +86,10 @@ img {
     text-shadow: 0 0 #222222;
   }
 }
+@font-face {
+font-family: F16;
+src: url(" ../DHS-LIVE/retro_computer_personal_use.ttf*) format('truetype');
+font-weight: bold; font-style: normal;
 
 .error {
   background-color: red;
